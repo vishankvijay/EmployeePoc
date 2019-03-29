@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EmployeePOC</string>
+    <string name="room_database">Room Database</string>
+    <string name="api_call">API Call</string>
+    <string name="room_db">RoomDb</string>
+    <string name="label_user_name">User name</string>
+    <string name="label_password">Password</string>
+    <string name="label_login">Login</string>
+    <string name="authentication_help_message">\nUser name should be of type <b>email</b>\n\nPassword should contain at
+        least one
+        <b>special character</b>
+    </string>
+    <string name="error_invalid_user_name">Invalid user name</string>
+    <string name="error_special_character_required">Password must contain a special character</string>
+    <string name="msg_authentication_help_title">Authentication help</string>
+    <string name="msg_select_data_source">Select Data Source</string>
+    <string name="msg_name_not_provided">Name not provided</string>
+    <string name="desc_image_help">Image that when clicked provides a brief help about the expected user name and password pattern</string>
+    <string name="desc_delete_image">ImageView which when clicked, deletes an employee entry for the database</string>
+    <string name="msg_disconnected">You are disconnected</string>
+    <string name="msg_login_success">Login Successful!</string>
+    <!--
+    <string name="title_activity_login2">Sign in</string>
+-->
+</resources>
